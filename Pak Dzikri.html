@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biodata Guru Smkn 1</title>
+    <style>
+        html {
+            scroll-behavior: smooth;
+        }
+    
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #ffc49e;
+            color: #333;
+        }
+    
+        header {
+            background-color: #007bff;
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+        }
+    
+        nav {
+            margin: 10px 0;
+            text-align: center;
+            position: relative;
+        }
+    
+        nav a {
+            margin: 0 15px;
+            color: white;
+            text-decoration: none;
+            padding: 10px 15px;
+            display: inline-block;
+            position: relative;
+        }
+    
+        nav a {
+            transition: all 0.3s ease;
+        }
+
+        nav a:hover {
+            background: rgba(255, 255, 255, 0.2);
+            transform: scale(1.1);
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+        }
+
+        nav a:active {
+            transform: scale(0.95);
+        }
+
+    
+        main {
+            padding: 20px;
+            text-align: left;
+        }
+    
+        section {
+            height: 100vh;
+            padding: 50px;
+        }
+    
+        footer {
+            background-color: #333;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+    
+        .biodata-table {
+            margin: auto;
+            border-collapse: collapse;
+        }
+    
+        .biodata-table td {
+            padding: 5px 10px;
+            font-family: Arial, sans-serif;
+        }
+    
+        .biodata-table td:first-child {
+            text-align: left;
+            font-weight: bold;
+        }
+    
+        .biodata-table td:last-child {
+            text-align: left;
+        }
+    
+        
+        .nav-box {
+            width: 100px;
+            height: 4px;
+            background-color: #000;
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            border-radius: 5px;
+            transition: left 0.3s ease, width 0.3s ease;
+
+        }
+        .container {
+            display: flex;
+            justify-content: center; 
+            align-items: center; 
+            height: 300px;
+            background-color:  #ffc49e;
+        }
+        img {
+            max-width: 100%; 
+            height: auto;
+        }
+
+
+    </style>
+    
+    
+    
+</head>
+<body>
+    <header>
+        <h1>BIODATA GURU RPL SMKN 1 SUBANG</h1>
+        <nav>
+            <a href="Pak Rizal.html" onclick="moveBox(0)">Pak Rizal</a>
+            <a href="#" onclick="moveBox(1)">Pak Dzikri</a>
+            <a href="index.html" onclick="moveBox(2)">Pak Dede</a>
+
+        </nav>
+    </header>
+    <main>
+        <div class="container">
+        <img src="dzikri.jpeg" style="width: 300px;">
+        </div>
+        <h2 style="text-align: center;">BIODATA PAK TAUFIK DZIKRI PANGESTU</h2>
+
+        <table class="biodata-table">
+            <tr><td>Nama Lengkap</td><td>: Taufik Dzikri Pangestu, S.Pd</td></tr>
+            <tr><td>Pendidikan</td><td>: S1 Pendidikan Teknik Informatika, UPI Bandung</td></tr>
+            <tr><td>Mengajar Sejak</td><td>: 2022 - RPL</td></tr>
+            <tr><td>Tanggal Lahir</td><td>: 26 Maret 1997</td></tr>
+            <tr><td>Hobi</td><td>: Olahraga</td></tr>
+            <tr><td>prestasi</td><td>: juara 1 gemastik 10</td></tr>           
+            <tr><td>Alamat</td><td>: Blok C3 No.6, Cigadung, Subang</td></tr>
+
+        </table>
+    </main>
+
+    <footer>
+        <p>&copy; Tugas Biodata</p>
+    </footer>
+</body>
+<script>
+    function moveBox(index) {
+        const navLinks = document.querySelectorAll('nav a');
+        const navBox = document.querySelector('.nav-box');
+        navBox.style.width = navLinks[index].offsetWidth + 'px';
+        navBox.style.left = navLinks[index].offsetLeft + 'px';
+    }
+
+    document.addEventListener('DOMContentLoaded', function() {
+        const navLinks = document.querySelectorAll('nav a');
+        const navBox = document.createElement('div');
+        navBox.classList.add('nav-box');
+        document.querySelector('nav').appendChild(navBox);
+
+        // Set initial position of nav box
+        const initialLink = document.querySelector('nav a[href="Pak Dzikri.html"]');
+        navBox.style.width = initialLink.offsetWidth + 'px';
+        navBox.style.left = initialLink.offsetLeft + 'px';
+    });
+
+</script>
+
+</html>
