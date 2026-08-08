@@ -1,7 +1,7 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:56CCF2,100:5B86E5&height=200&section=header&text=Welcome,%20Valtzy220&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:56CCF2,100:5B86E5&height=200&section=header&text=Welcome,%20Valtzy220&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35">
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:56CCF2,100:5B86E5&height=200&section=header&text=Welcome,%20Valtzy220&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35">
   <img alt="Header banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:56CCF2,100:5B86E5&height=200&section=header&text=Welcome,%20Valtzy220&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35">
 </picture>
