@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Nauval Nur Fauzi
+# Welcome to Overview Valtzy220
 
 **Full-Stack Web Developer** | **Vocational Student (SMK)** | **Team IT 3kata komunika**
 
@@ -23,7 +23,7 @@ I'm a self-taught full-stack developer based in Indonesia, currently completing 
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -61,8 +61,8 @@ I'm a self-taught full-stack developer based in Indonesia, currently completing 
 |---|---|---|
 | **[Analogi Event](https://github.com/valtzy220)** | Full-stack company website for an event-organizer business, built and shipped from scratch on shared hosting — including SEO, security hardening, and a custom Filament admin panel | React (Vite) · Laravel 13 · Filament v4 |
 | **[SnapBooth](https://github.com/valtzy220)** | Photobooth web app with a 4-stage capture flow, canvas-based photo compositing, live face detection, and real (non-CSS) beautify filters | Laravel 13 · Breeze · Intervention Image |
-| **[photobooth-smkn1subang](https://github.com/valtzy220/photobooth-smkn1subang)** | Photobooth platform rebuild for IT Club SMKN 1 Subang with webcam capture and a separate Filament backend for admin & storage | Next.js · Laravel · Filament |
-| **[ITC-Photobooth-gebyareskul](https://github.com/valtzy220/ITC-Photobooth-gebyareskul)** | Photobooth build for a school event | Blade |
+| **[photobooth-smkn1subang](https://github.com/valtzy220/photobooth-smkn1subang)** | Photobooth platform rebuild for IT Club SMKN 1 Subang with webcam capture and a separate Filament backend for admin & storage | Tailwind · Laravel |
+| **[ITC-Photobooth-gebyareskul](https://github.com/valtzy220/ITC-Photobooth-gebyareskul)** | Photobooth build for a school event | Laravel |
 
 ---
 
