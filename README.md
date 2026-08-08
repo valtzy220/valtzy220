@@ -6,21 +6,20 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/valskies1)
 
 </div>
 
 ---
 
-### 🚀 About Me
+### About Me
 
 I'm a self-taught full-stack developer based in Indonesia, currently completing a vocational (SMK) internship in the networking / computer technician field. I build production web apps end-to-end — from custom-styled React frontends to Laravel + Filament admin panels — and I like getting hands-on with shared-hosting deployment challenges most tutorials skip over.
 
-- 🔭 Currently building **photobooth web platforms** for school events (Next.js + Laravel/Filament)
-- 🛡️ Digging into **application security** — SQL injection, XSS, and auth hardening on real client projects
-- 📱 Exploring **mobile development** with Flutter (Provider state management)
-- 🎯 Interested in **computer vision** — built a gesture-detection project with Python + MediaPipe
-- 🎨 I write my own CSS — no Tailwind, no shortcuts
+- Currently building **photobooth web platforms** for school events (Next.js + Laravel/Filament)
+- Digging into **application security** — SQL injection, XSS, and auth hardening on real client projects
+- Exploring **web development** with Flutter (Provider state management)
+- Interested in **computer vision** — built a gesture-detection project with Python + MediaPipe
 
 ---
 
@@ -50,14 +49,13 @@ I'm a self-taught full-stack developer based in Indonesia, currently completing 
 **Tools & Other**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
 
 </div>
 
 ---
 
-### 🌟 Featured Projects
+### Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -68,7 +66,7 @@ I'm a self-taught full-stack developer based in Indonesia, currently completing 
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
