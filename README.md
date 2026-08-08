@@ -1,6 +1,6 @@
 <div align="center">
 
-# Welcome to Overview Valtzy220
+# Welcome to Valtzy220
 
 **Full-Stack Web Developer** | **Vocational Student (SMK)** | **Team IT 3kata komunika**
 
