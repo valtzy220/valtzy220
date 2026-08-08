@@ -1,6 +1,6 @@
 <div align="center">
 
-<img alt="Header banner" src="https://capsule-render.vercel.app/api?type=rect&color=0:56CCF2,100:5B86E5&height=180&section=header&text=Welcome,%20Valtzy220&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%">
+<img alt="Header banner" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2800,100:A6050B&height=180&section=header&text=Welcome,%20Valtzy220&fontSize=38&fontColor=FFF200&animation=fadeIn&fontAlignY=35" width="100%">
 
 **Full-Stack Web Developer** | **Student of SMKN 1 SUBANG** | **Team IT 3kata komunika**
 
@@ -97,7 +97,7 @@ Photobooth build for a school event.
 
 <div align="center">
 
-<img alt="Footer banner" src="https://capsule-render.vercel.app/api?type=rect&color=0:56CCF2,100:5B86E5&height=90&section=footer" width="100%">
+<img alt="Footer banner" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2800,100:A6050B&height=90&section=footer" width="100%">
 
 **Reach me:**
 
