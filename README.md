@@ -14,7 +14,7 @@
 
 ### About Me
 
-I'm a self-taught full-stack developer based in Indonesia, currently completing a vocational (SMK) internship in the networking / computer technician field. I build production web apps end-to-end — from custom-styled React frontends to Laravel + Filament admin panels — and I like getting hands-on with shared-hosting deployment challenges most tutorials skip over.
+I'm a self-taught full-stack developer based in Indonesia, currently completing a vocational (SMK) internship in Dipanet Hospot Solution - I build production web apps end-to-end — from custom-styled React frontends to Laravel + Filament admin panels — and I like getting hands-on with shared-hosting deployment challenges most tutorials skip over.
 
 - Currently building **photobooth web platforms** for school events (Next.js + Laravel/Filament)
 - Digging into **application security** — SQL injection, XSS, and auth hardening on real client projects
@@ -68,6 +68,8 @@ I'm a self-taught full-stack developer based in Indonesia, currently completing 
 
 <div align="center">
 
-**Reach me:** nauvalfauzi99@gmail.com / #
+**Reach me:**  <br>
+Gmail: nauvalfauzi99@gmail.com <br>
+Contact: #
 
 </div>
