@@ -1,7 +1,7 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:56CCF2,100:5B86E5&height=200&section=header&text=Welcome,%20Valtzy220&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:56CCF2,100:5B86E5&height=200&section=header&text=Welcome,%20Valtzy220&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35">
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:56CCF2,100:5B86E5&height=200&section=header&text=Welcome,%20Valtzy220&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35">
   <img alt="Header banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:56CCF2,100:5B86E5&height=200&section=header&text=Welcome,%20Valtzy220&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35">
 </picture>
@@ -73,9 +73,9 @@ I'm a self-taught full-stack developer based in Indonesia, currently completing 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=100&section=footer">
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,100:e8f0fe&height=100&section=footer">
-  <img alt="Footer banner" src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,100:e8f0fe&height=100&section=footer">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:56CCF2,100:5B86E5&height=100&section=footer">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:56CCF2,100:5B86E5&height=100&section=footer">
+  <img alt="Footer banner" src="https://capsule-render.vercel.app/api?type=rect&color=0:56CCF2,100:5B86E5&height=100&section=footer">
 </picture>
 
 **Reach me:**
