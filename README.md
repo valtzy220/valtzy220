@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: white)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Welcome to Profile Valtzy220&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:e8f0fe&height=200&section=header&text=Vjjjaltzy220&fontSize=50&fontColor=000000&animation=fadeIn&fontAlignY=35">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Valtzy220&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:e8f0fe&height=200&section=header&text=Valtzy220&fontSize=50&fontColor=000000&animation=fadeIn&fontAlignY=35">
   <img alt="Header banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:e8f0fe&height=200&section=header&text=Valtzy220&fontSize=50&fontColor=000000&animation=fadeIn&fontAlignY=35">
 </picture>
 
