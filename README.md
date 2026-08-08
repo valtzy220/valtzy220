@@ -68,6 +68,6 @@ I'm a self-taught full-stack developer based in Indonesia, currently completing 
 
 <div align="center">
 
-📫 **Reach me:** nauvalfauzi99@gmail.com / #
+**Reach me:** nauvalfauzi99@gmail.com / #
 
 </div>
