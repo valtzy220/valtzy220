@@ -6,7 +6,7 @@
   <img alt="Header banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:56CCF2,100:5B86E5&height=200&section=header&text=Welcome,%20Valtzy220&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35">
 </picture>
 
-**Full-Stack Web Developer** | **Vocational Student (SMK)** | **Team IT 3kata komunika**
+**Full-Stack Web Developer** | **Student of SMKN 1 SUBANG** | **Team IT 3kata komunika**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
