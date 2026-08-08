@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Nauval Nur Fauzi 👋
+# Hi, I'm Nauval Nur Fauzi
 
-**Full-Stack Web Developer** | Vocational Student (SMK) | Networking & Systems PKL Intern
+**Full-Stack Web Developer** | **Vocational Student (SMK)** | **Team IT 3kata komunika**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
