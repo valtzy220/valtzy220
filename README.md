@@ -1,6 +1,10 @@
-<div align="center" class="bg-white">
+<div align="center">
 
-# Welcome to Valtzy220
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Valtzy220&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:e8f0fe&height=200&section=header&text=Valtzy220&fontSize=50&fontColor=000000&animation=fadeIn&fontAlignY=35">
+  <img alt="Header banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:e8f0fe&height=200&section=header&text=Valtzy220&fontSize=50&fontColor=000000&animation=fadeIn&fontAlignY=35">
+</picture>
 
 **Full-Stack Web Developer** | **Vocational Student (SMK)** | **Team IT 3kata komunika**
 
@@ -14,7 +18,7 @@
 
 ### About Me
 
-I'm a self-taught full-stack developer based in Indonesia, currently completing a vocational (SMK) internship in Dipanet Hospot Solution - I build production web apps end-to-end — from custom-styled React frontends to Laravel + Filament admin panels — and I like getting hands-on with shared-hosting deployment challenges most tutorials skip over.
+I'm a self-taught full-stack developer based in Indonesia, currently completing a vocational (SMK) internship at **Dipanet Hospot Solution** — I build production web apps end-to-end, from custom-styled React frontends to Laravel + Filament admin panels, and I like getting hands-on with shared-hosting deployment challenges most tutorials skip over.
 
 - Currently building **photobooth web platforms** for school events (Next.js + Laravel/Filament)
 - Digging into **application security** — SQL injection, XSS, and auth hardening on real client projects
@@ -68,7 +72,14 @@ I'm a self-taught full-stack developer based in Indonesia, currently completing 
 
 <div align="center">
 
-**Reach me:**  <br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=100&section=footer">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,100:e8f0fe&height=100&section=footer">
+  <img alt="Footer banner" src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,100:e8f0fe&height=100&section=footer">
+</picture>
+
+**Reach me:**
+
 Gmail: nauvalfauzi99@gmail.com <br>
 Contact: #
 
