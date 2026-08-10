@@ -73,20 +73,20 @@ Full-stack company website for an event-organizer business, built and shipped fr
 Pembukuan-otomatis adalah aplikasi berbasis web dengan rancangan laravel 11 yang berfungsi untuk mengatur keuangan, pelanggan dll. <br>
 Front-End, Quality Control
 
-🔗 [github.com/aliff2712/pembukuan-otomatis](https://github.com/aliff2712/pembukuan-otomatis)
+🔗 [github.com/valtzy220/pembukuan-otomatis](https://github.com/aliff2712/pembukuan-otomatis)
 </details>
 
 <details>
-<summary><b>photobooth-smkn1subang</b> — Tailwind · Laravel</summary>
+<summary><b>photobooth-smkn1subang</b> — Tailwind · Laravel 13 · breeze </summary>
 <br>
 
-Photobooth platform rebuild for IT Club SMKN 1 Subang with webcam capture and a separate Filament backend for admin & storage.
+Photobooth platform rebuild for IT Club SMKN 1 Subang with webcam capture and backend for admin & storage.
 
 🔗 [github.com/valtzy220/photobooth-smkn1subang](https://github.com/valtzy220/photobooth-smkn1subang)
 </details>
 
 <details>
-<summary><b>ITC-Photobooth-gebyareskul</b> — Laravel</summary>
+<summary><b>ITC-Photobooth-gebyareskul</b> — Laravel 13 · Breeze · Tailwind</summary>
 <br>
 
 Photobooth build for a school event.
