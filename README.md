@@ -67,12 +67,13 @@ Full-stack company website for an event-organizer business, built and shipped fr
 </details>
 
 <details>
-<summary><b>SnapBooth</b> — Laravel 13 · Breeze · Intervention Image</summary>
+<summary><b>Pembukuan-otomatis</b> — Laravel 11 · Breeze · Boostrap 5.0 </summary>
 <br>
 
-Photobooth web app with a 4-stage capture flow, canvas-based photo compositing, live face detection, and real (non-CSS) beautify filters.
+Pembukuan-otomatis adalah aplikasi berbasis web dengan rancangan laravel 11 yang berfungsi untuk mengatur keuangan,pelanggan dll. <br>
+Front-End, Qualiity Control
 
-🔗 [github.com/valtzy220](https://github.com/valtzy220)
+🔗 [github.com/valtzy220](https:https://github.com/aliff2712/pembukuan-otomatis.git)
 </details>
 
 <details>
