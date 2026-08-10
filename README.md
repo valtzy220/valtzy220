@@ -73,7 +73,7 @@ Full-stack company website for an event-organizer business, built and shipped fr
 Pembukuan-otomatis adalah aplikasi berbasis web dengan rancangan laravel 11 yang berfungsi untuk mengatur keuangan,pelanggan dll. <br>
 Front-End, Qualiity Control
 
-🔗 [github.com/valtzy220](https:https://github.com/aliff2712/pembukuan-otomatis)
+🔗 [github.com/valtzy220](https://github.com/aliff2712/pembukuan-otomatis)
 </details>
 
 <details>
