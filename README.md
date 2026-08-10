@@ -58,9 +58,9 @@ I'm a self-taught full-stack developer based in Indonesia, currently completing 
 ### Featured Projects
 
 <details open>
-<summary><b>Analogi Event</b> — React (Vite) · Laravel 13 · Filament v4</summary>
+<summary><b>Analogi Event</b> — React (Vite) </summary>
 <br>
-
+Frond-end analogi-event <br>
 Full-stack company website for an event-organizer business, built and shipped from scratch on shared hosting — including SEO, security hardening, and a custom Filament admin panel.
 
 🔗 <b>private</b>
