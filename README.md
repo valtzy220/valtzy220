@@ -63,7 +63,7 @@ I'm a self-taught full-stack developer based in Indonesia, currently completing 
 
 Full-stack company website for an event-organizer business, built and shipped from scratch on shared hosting — including SEO, security hardening, and a custom Filament admin panel.
 
-🔗 [github.com/valtzy220](https://github.com/valtzy220)
+🔗 <b>private<b>
 </details>
 
 <details>
@@ -73,7 +73,7 @@ Full-stack company website for an event-organizer business, built and shipped fr
 Pembukuan-otomatis adalah aplikasi berbasis web dengan rancangan laravel 11 yang berfungsi untuk mengatur keuangan,pelanggan dll. <br>
 Front-End, Qualiity Control
 
-🔗 [github.com/valtzy220](https:https://github.com/aliff2712/pembukuan-otomatis.git)
+🔗 [github.com/valtzy220](https:https://github.com/aliff2712/pembukuan-otomatis)
 </details>
 
 <details>
