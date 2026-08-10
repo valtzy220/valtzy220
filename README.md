@@ -63,17 +63,17 @@ I'm a self-taught full-stack developer based in Indonesia, currently completing 
 
 Full-stack company website for an event-organizer business, built and shipped from scratch on shared hosting — including SEO, security hardening, and a custom Filament admin panel.
 
-🔗 <b>private<b>
+🔗 <b>private</b>
 </details>
 
 <details>
-<summary><b>Pembukuan-otomatis</b> — Laravel 11 · Breeze · Boostrap 5.0 </summary>
+<summary><b>Pembukuan-otomatis</b> — Laravel 11 · Breeze · Bootstrap 5.0 </summary>
 <br>
 
-Pembukuan-otomatis adalah aplikasi berbasis web dengan rancangan laravel 11 yang berfungsi untuk mengatur keuangan,pelanggan dll. <br>
-Front-End, Qualiity Control
+Pembukuan-otomatis adalah aplikasi berbasis web dengan rancangan laravel 11 yang berfungsi untuk mengatur keuangan, pelanggan dll. <br>
+Front-End, Quality Control
 
-🔗 [github.com/valtzy220](https://github.com/aliff2712/pembukuan-otomatis)
+🔗 [github.com/aliff2712/pembukuan-otomatis](https://github.com/aliff2712/pembukuan-otomatis)
 </details>
 
 <details>
@@ -104,5 +104,9 @@ Photobooth build for a school event.
 
 Gmail: nauvalfauzi99@gmail.com <br>
 Contact: #
+
+<br>
+
+<img src="https://camo.githubusercontent.com/7cebdb5af25264ac87412f2cf8b500fb7671292563f6dff72a6a649fc5f4fc18/68747470733a2f2f656d6f6a692e67672f6173736574732f656d6f6a692f373333332d706172726f7464616e63652e676966" width="60">
 
 </div>
