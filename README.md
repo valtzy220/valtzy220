@@ -98,7 +98,7 @@ Photobooth build for a school event.
 
 <div align="center">
 
-<img alt="Footer banner" src="https://capsule-render.vercel.app/api?type=rect&color=0:FCF1D0,100:22396F&height=90&section=footer" width="100%">
+<img alt="Footer banner" src="https://capsule-render.vercel.app/api?type=rect&color=22396F&height=90&section=footer" width="100%">
 
 **Reach me:**
 
