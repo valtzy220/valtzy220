@@ -1,4 +1,4 @@
-<div align="center">
+<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/32e2651f-515f-474c-abe5-ca5e691f5c17" /><div align="center">
 
 <img alt="Header banner" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2800,100:8B0000&height=180&section=header&text=Welcome,%20Valtzy220&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Web%20Developer&descSize=18&descColor=FFF200&descAlignY=62&animation=fadeIn" width="100%">
 
@@ -108,5 +108,6 @@ Contact: #
 <br>
 
 <img src="https://camo.githubusercontent.com/7cebdb5af25264ac87412f2cf8b500fb7671292563f6dff72a6a649fc5f4fc18/68747470733a2f2f656d6f6a692e67672f6173736574732f656d6f6a692f373333332d706172726f7464616e63652e676966" width="60">
+<img src="https://camo.githubusercontent.com/30c722dd2bd2de1218a60c2c8ce283397be1898f22b7ccdefdb36398bb8c51d9/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4a49583974326a305a544e39532f67697068792e676966" widht="60">
 
 </div>
