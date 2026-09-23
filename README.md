@@ -108,5 +108,5 @@ Contact: #
 <br>
 
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="60">
-
+<img src="https://camo.githubusercontent.com/7cebdb5af25264ac87412f2cf8b500fb7671292563f6dff72a6a649fc5f4fc18/68747470733a2f2f656d6f6a692e67672f6173736574732f656d6f6a692f373333332d706172726f7464616e63652e676966" width="60">
 </div>
