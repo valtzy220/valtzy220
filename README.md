@@ -1,6 +1,6 @@
 <div align="center">
 
-<img alt="Header banner" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1F3A,100:001F3F&height=180&section=header&text=Welcome,%20Valtzy220&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Web%20Developer&descSize=18&descColor=FFF200&descAlignY=62&animation=fadeIn" width="100%">
+<img alt="Header banner" src="https://capsule-render.vercel.app/api?type=rect&color=0:0FCF1D0,100:001F3F&height=180&section=header&text=Welcome,%20Valtzy220&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Web%20Developer&descSize=18&descColor=FFF200&descAlignY=62&animation=fadeIn" width="100%">
 
 **Web Developer** | **Student of SMKN 1 SUBANG** | **Team IT 3kata komunika**
 
