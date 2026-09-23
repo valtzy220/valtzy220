@@ -1,6 +1,6 @@
-<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/32e2651f-515f-474c-abe5-ca5e691f5c17" /><div align="center">
+<div align="center">
 
-<img alt="Header banner" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2800,100:8B0000&height=180&section=header&text=Welcome,%20Valtzy220&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Web%20Developer&descSize=18&descColor=FFF200&descAlignY=62&animation=fadeIn" width="100%">
+<img alt="Header banner" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1F3A,100:001F3F&height=180&section=header&text=Welcome,%20Valtzy220&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Web%20Developer&descSize=18&descColor=FFF200&descAlignY=62&animation=fadeIn" width="100%">
 
 **Web Developer** | **Student of SMKN 1 SUBANG** | **Team IT 3kata komunika**
 
@@ -98,7 +98,7 @@ Photobooth build for a school event.
 
 <div align="center">
 
-<img alt="Footer banner" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2800,100:8B0000&height=90&section=footer" width="100%">
+<img alt="Footer banner" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1F3A,100:001F3F&height=90&section=footer" width="100%">
 
 **Reach me:**
 
@@ -107,6 +107,6 @@ Contact: #
 
 <br>
 
-<img src="https://camo.githubusercontent.com/7cebdb5af25264ac87412f2cf8b500fb7671292563f6dff72a6a649fc5f4fc18/68747470733a2f2f656d6f6a692e67672f6173736574732f656d6f6a692f373333332d706172726f7464616e63652e676966" width="60">
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="60">
 
 </div>
